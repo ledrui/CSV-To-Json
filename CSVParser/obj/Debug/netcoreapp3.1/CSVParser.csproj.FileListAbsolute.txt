@@ -1,0 +1,13 @@
+/home/iliastsz/web/csv_parser/CSVParser/obj/Debug/netcoreapp3.1/CSVParser.csprojAssemblyReference.cache
+/home/iliastsz/web/csv_parser/CSVParser/obj/Debug/netcoreapp3.1/CSVParser.AssemblyInfoInputs.cache
+/home/iliastsz/web/csv_parser/CSVParser/obj/Debug/netcoreapp3.1/CSVParser.AssemblyInfo.cs
+/home/iliastsz/web/csv_parser/CSVParser/bin/Debug/netcoreapp3.1/CSVParser
+/home/iliastsz/web/csv_parser/CSVParser/bin/Debug/netcoreapp3.1/CSVParser.deps.json
+/home/iliastsz/web/csv_parser/CSVParser/bin/Debug/netcoreapp3.1/CSVParser.runtimeconfig.json
+/home/iliastsz/web/csv_parser/CSVParser/bin/Debug/netcoreapp3.1/CSVParser.runtimeconfig.dev.json
+/home/iliastsz/web/csv_parser/CSVParser/bin/Debug/netcoreapp3.1/CSVParser.dll
+/home/iliastsz/web/csv_parser/CSVParser/bin/Debug/netcoreapp3.1/CSVParser.pdb
+/home/iliastsz/web/csv_parser/CSVParser/obj/Debug/netcoreapp3.1/CSVParser.dll
+/home/iliastsz/web/csv_parser/CSVParser/obj/Debug/netcoreapp3.1/CSVParser.pdb
+/home/iliastsz/web/csv_parser/CSVParser/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/iliastsz/web/csv_parser/CSVParser/obj/Debug/netcoreapp3.1/CSVParser.csproj.CopyComplete

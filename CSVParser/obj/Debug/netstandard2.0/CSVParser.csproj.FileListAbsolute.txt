@@ -1,0 +1,3 @@
+/home/iliastsz/web/csv_parser/CSVParser/obj/Debug/netstandard2.0/CSVParser.csprojAssemblyReference.cache
+/home/iliastsz/web/csv_parser/CSVParser/obj/Debug/netstandard2.0/CSVParser.AssemblyInfoInputs.cache
+/home/iliastsz/web/csv_parser/CSVParser/obj/Debug/netstandard2.0/CSVParser.AssemblyInfo.cs
